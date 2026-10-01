@@ -1,0 +1,23 @@
+{
+  "name": "electron-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ness0611/electron-chatbot#readme",
+  "bugs": {
+    "url": "https://github.com/ness0611/electron-chatbot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ness0611/electron-chatbot.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^44.5.1"
+  }
+}
